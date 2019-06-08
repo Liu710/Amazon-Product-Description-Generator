@@ -1,3 +1,13 @@
+Developers:
+ - Lan Gan
+ - Yaxiong Liu
+ - Shiyi Li
+
+Project was inspired by previous class project
+“Analyzing Amazon Reviews” by Akanksha, Anantha Nithya Arunachalam, Manasvini Sethuraman, Niveditha Srinivasaragavan
+
+Amazon Review Dataset:
+Julian McAuley, UCSD. http://jmcauley.ucsd.edu/data/amazon/
 
 ### SelectTrainingSet.java SelectTrainingSetSingleKeyword.java
 To run SelectTrainingSet.java or SelectTrainingSetSingleKeyword.java:
